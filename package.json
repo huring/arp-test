@@ -1,0 +1,11 @@
+{
+  "name": "arp-test",
+  "version": "1.0.0",
+  "description": "Testing ARP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lars Huring",
+  "license": "ISC"
+}
